@@ -1,0 +1,502 @@
+[
+ {
+  "Question": "Solunum durmasında dudaklar, parmak uçları ve burun ucunda görülen morarmaların sebebi aşağıdakilerden hangisidir?\n",
+  "A": "A)Su kaybı",
+  "B": "B)Oksijensizlik",
+  "C": "C)Beslenme yetersizliği",
+  "D": "D)Karbonmonoksit eksikliği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B)Oksijensizlik"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ilk yardımın temel kurallarından biri değildir?\n",
+  "A": "A) İlk yardımcı önce kendini emniyete almalıdır.",
+  "B": "B) İlk yardımcı emin olmadığı uygulamalardan kaçınmalıdır.",
+  "C": "C) Tıbbi yardım gelene kadar hiçbir uygulama yapılmamalıdır.",
+  "D": "D) Kazazedelere müdahale hızlı ancak sakin bir şekilde yapılmalıdır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Tıbbi yardım gelene kadar hiçbir uygulama yapılmamalıdır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin tek yönlü yollarda yapılması yasaktır?\n",
+  "A": "A) Yol eğimliyse çıkışta kullanılan vitesle inilmesi",
+  "B": "B) Park manevrası yaparken geri gidilmesi",
+  "C": "C) Hız azaltmak için frene basılması",
+  "D": "D) Ters yönden yola girilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ters yönden yola girilmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi aküyü şarj eden parçadır?\n",
+  "A": "A) Endüksiyon bobini",
+  "B": "B) Marş motoru",
+  "C": "C) Distribütör",
+  "D": "D) Alternatör",
+  "Image": 1,
+  "Explaination": "Aracın aküsünü şarj eden parçanın adı \"alternatördür\". Marş motoru aracın ilk çalıştırılmasından sorumlu olan parçadır.\n",
+  "Answer": "D) Alternatör"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araç geçmede uyulması gereken kurallardan biri değildir?\n",
+  "A": "A) Emniyet şeridini kullanarak öndeki aracı geçmek",
+  "B": "B) Geçmeden önce sola dönüş ışığını yakmak",
+  "C": "C) Karşı yönden gelen trafiği kontrol etmek",
+  "D": "D) Başka araç tarafından geçilmiyor olmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Emniyet şeridini kullanarak öndeki aracı geçmek"
+ },
+ {
+  "Question": "Kalp durmasının en önemli göstergesi aşağıdakilerden hangisidir?\n",
+  "A": "A) Solunumun güç olması",
+  "B": "B) Vücutta morarma olması",
+  "C": "C) Nabız atımlarının olmaması",
+  "D": "D) Kazazedenin bilincini kaybetmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Nabız atımlarının olmaması"
+ },
+ {
+  "Question": "Haritada yeri gösterilen illerden hangisi daha doğudadır?\n",
+  "A": "A) Uşak",
+  "B": "B) Sivas",
+  "C": "C) Konya",
+  "D": "D) Trabzon",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195665985831710810\/Trafik_Levhalar65.png",
+  "Explaination": 1,
+  "Answer": "D) Trabzon"
+ },
+ {
+  "Question": "Motorlu bisikletler otoyollarda asgari kaç km hızla gitmelidir?\n",
+  "A": "A) Giremez",
+  "B": "B) 40",
+  "C": "C) 50",
+  "D": "D) 60",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Giremez"
+ },
+ {
+  "Question": "I- Yara içi kurcalanır.\nII- Saplanan yabancı cisim çıkarılmaz.\nIII- Yaranın üzeri kapatılarak tıbbi yardım istenir.\n\nYukarıdakilerden hangileri, ciddi yaralanmalarda yapılması gereken doğru bir ilk yardım uygulamasıdır?",
+  "A": "A) Yalnız I",
+  "B": "B) I ve II",
+  "C": "C) II ve III",
+  "D": "D) I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) II ve III"
+ },
+ {
+  "Question": "Aşağıdaki trafik işaretlerinden hangisi bir yasaklama veya sınırlama belirtir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195667079412584558\/Trafik_Levhalar66.png",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "Şekle göre, hangi numaralı araç sürücüsünün yaptığı, öndeki aracı geçme kuralına aykırıdır?\n",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195667558305628160\/Trafik_Levhalar67.png",
+  "Explaination": 1,
+  "Answer": "B) 2"
+ },
+ {
+  "Question": "Şekildeki trafik işaretini gören sürücünün aşağıdakilerden hangisini yapması doğrudur?\n",
+  "A": "A) Hızını artırması",
+  "B": "B) Sert fren yapması",
+  "C": "C) Vitesi boşa alması",
+  "D": "D) Uygun vitesle inmesi",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195668126684172308\/Trafik_Levhalar68.png",
+  "Explaination": 1,
+  "Answer": "D) Uygun vitesle inmesi"
+ },
+ {
+  "Question": "Lastiklerin hava basıncı dengesizse frenleme anında aşağıdakilerden hangisi olur?\n",
+  "A": "A)Araç bir tarafa çeker.",
+  "B": "B)Fren pedalı sertleşir.",
+  "C": "C)Frenlerden ses gelir.",
+  "D": "D)Fren hidroliği azalır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)Araç bir tarafa çeker."
+ },
+ {
+  "Question": "Şekildeki yol çizgileri aşağıdakilerden hangisini bildirmez?\n",
+  "A": "A) Kesik çizgi tarafındaki yolun sadece ağır taşıtlarca kullanılacağını",
+  "B": "B) Devamlı çizgi tarafındaki aracın önündeki aracı geçemeyeceğini",
+  "C": "C) Kesik çizgi tarafındaki aracın önündeki aracı geçebileceğini",
+  "D": "D) Devamlı çizgi tarafındaki aracın kendi şeridinde seyretmesi gerektiğini",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195679751235448843\/Trafik_Levhalar70.png",
+  "Explaination": 1,
+  "Answer": "A) Kesik çizgi tarafındaki yolun sadece ağır taşıtlarca kullanılacağını"
+ },
+ {
+  "Question": "• Konuşamıyor.\n• Nefes alamıyor.\n• Rengi morarıyor.\n• Acı çekerek ellerini boğazına götürüyor.\n\nVerilen bulgular kazazedede aşağıdaki durumların hangisinin olduğunu gösterir?",
+  "A": "A) Koma hâli",
+  "B": "B) Uykuya eğilim",
+  "C": "C) Solunum yolunun yabancı cisimle tıkanması",
+  "D": "D) Dolaşımın durması, kalp atımlarının alınamaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Solunum yolunun yabancı cisimle tıkanması"
+ },
+ {
+  "Question": "Soluk yoluna yabancı cisim kaçmış bir kazazedenin;konuşamadığını, nefes alamadığını, renginin morardığını ve acı çekerek ellerini boğazına götürdüğünü gözlemlediniz. Bu belirtiler kazazedede hangi tür tıkanma olduğunu gösterir?\n",
+  "A": "A) Tam tıkanma",
+  "B": "B) Kısmi tıkanma",
+  "C": "C) Damar tıkanması",
+  "D": "D) Solunum durması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Tam tıkanma"
+ },
+ {
+  "Question": "Aksine bir işaret yoksa, şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?\n",
+  "A": "A) 30",
+  "B": "B) 50",
+  "C": "C) 70",
+  "D": "D) 80",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 50"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kontrolsüz kavşak işaretidir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195680738549436526\/Trafik_Levhalar71.png",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisinin adı, yavaşlama uyarı çizgileridir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195681355548332032\/Trafik_Levhalar72.png",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "1- Suni solunum uygulanması\n\n2- Dolaşımın değerlendirilmesi\n\n3- Kalp masajı uygulanması\n\n4- Hava yolu açıklığının sağlanması\n\n“Yeniden canlandırma” basamaklarının sıralaması hangi seçenekte doğru şekilde verilmiştir?",
+  "A": "A) 1 - 2 - 3 - 4",
+  "B": "B) 2 - 3 - 1 - 4",
+  "C": "C) 4 - 1 - 2 - 3",
+  "D": "D) 3 - 2 - 1 - 4",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 4 - 1 - 2 - 3"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin periyodik bakımı yapılmadığında motorda yeterli miktarda yağlama gerçekleşmez?\n",
+  "A": "A) Yağ filtresi",
+  "B": "B) Hava filtresi",
+  "C": "C) Yakıt filtresi",
+  "D": "D) Polen filtresi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Yağ filtresi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi termostatın görevidir?\n",
+  "A": "A) Yakıt-hava karışımını ayarlamak",
+  "B": "B) Diferansiyeli çalışma sıcaklığında tutmak",
+  "C": "C) Karterdeki yağı yağ kanallarına göndermek",
+  "D": "D) Motor soğutma suyu sıcaklığını çalışma sıcaklığında sabit tutmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Motor soğutma suyu sıcaklığını çalışma sıcaklığında sabit tutmak"
+ },
+ {
+  "Question": "Akaryakıt istasyonundan yola çıkmak isteyen şekildeki 2 numaralı araç sürücüsü ne yapmalıdır?\n",
+  "A": "A) Selektör yaparak 1 numaralı aracı durdurmalıdır.",
+  "B": "B) Korna çalıp 1 numaralı aracı yavaşlatmalıdır.",
+  "C": "C) 1 numaralı aracın geçmesini beklemelidir.",
+  "D": "D) Geçiş hakkını kendi kullanmalıdır.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195682069142065182\/Trafik_Levhalar73.png",
+  "Explaination": 1,
+  "Answer": "C) 1 numaralı aracın geçmesini beklemelidir."
+ },
+ {
+  "Question": "Aracın park lambalarından birinin yanıp diğerinin yanmamasının sebebi aşağıdakilerden hangisidir?\n",
+  "A": "A) Bujiler arızalıdır.",
+  "B": "B) Alternatör arızalıdır.",
+  "C": "C) Endüksiyon bobini arızalıdır.",
+  "D": "D) Yanmayan lambanın flamanı kopmuştur.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Yanmayan lambanın flamanı kopmuştur."
+ },
+ {
+  "Question": "Şekildeki trafik işareti aşağıdakilerden hangisini yasaklar?\n",
+  "A": "A) Park etmeyi",
+  "B": "B) Sola dönmeyi",
+  "C": "C) Sağa dönmeyi",
+  "D": "D) U dönüşü yapmayı",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195682579911819324\/Trafik_Levhalar74.png",
+  "Explaination": 1,
+  "Answer": "C) Sağa dönmeyi"
+ },
+ {
+  "Question": "Şekle göre aşağıdakilerden hangisi yasaktır?\n",
+  "A": "A) Araçların takip mesafesine uyması",
+  "B": "B) 3 numaralı kamyonun önündeki araçları geçmesi",
+  "C": "C) 2 numaralı aracın 1 numaralı aracı geçmesi",
+  "D": "D) 2 numaralı aracın 1 numaralı aracı geçerken hızını arttırması",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195682943398576298\/Trafik_Levhalar75.png",
+  "Explaination": 1,
+  "Answer": "B) 3 numaralı kamyonun önündeki araçları geçmesi"
+ },
+ {
+  "Question": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n",
+  "A": "A) Araçta elektrikli koltuk sisteminin bulunduğunu",
+  "B": "B) Yakıt deposu kapağının doğru kapatılmadığını",
+  "C": "C) Emniyet kemerinin takılı olmadığını",
+  "D": "D) Hava yastığı sisteminde bir arıza olduğunu",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195683315831820378\/Trafik_Levhalar76.png",
+  "Explaination": 1,
+  "Answer": "C) Emniyet kemerinin takılı olmadığını"
+ },
+ {
+  "Question": "Şekle göre, en soldaki şeridi sürekli işgal eden sürücüye aşağıdakilerden hangisi uygulanır?\n",
+  "A": "A) Hafif hapis cezası",
+  "B": "B) Sadece ceza puanı",
+  "C": "C) Trafikten men cezası",
+  "D": "D) Para cezası ve ceza puanı",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195683700369801286\/Trafik_Levhalar77.png",
+  "Explaination": 1,
+  "Answer": "D) Para cezası ve ceza puanı"
+ },
+ {
+  "Question": "Şekildeki gibi daralan bir yola gelen iki araç için aşağıdakilerden hangisi doğrudur?\n",
+  "A": "A) Dar yoldan önce 1 numaralı araç geçmelidir.",
+  "B": "B) 1 numaralı araç 2 numaralı araca yol vermelidir.",
+  "C": "C) 1 numaralı araç sürücüsü 2 numaralı araç sürücüsünü ikaz edip durdurmalıdır.",
+  "D": "D) 2 numaralı araç geri gitmelidir.",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195684053987373086\/Trafik_Levhalar78.png",
+  "Explaination": "1 Numaralı aracın gidişi yönünde karşıdan gelene yol ver işareti bulunmaktadır. O yüzden 2 numaralı araç öncelikle geçmelidir.\n",
+  "Answer": "B) 1 numaralı araç 2 numaralı araca yol vermelidir."
+ },
+ {
+  "Question": "Aşağıdakilerin hangisinde kırık olduğunda atelle tespit uygulaması yapılır?\n",
+  "A": "A) Kürek kemiği",
+  "B": "B) Ön kol kemiği",
+  "C": "C) Kaburga kemiği",
+  "D": "D) Köprücük kemiği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ön kol kemiği"
+ },
+ {
+  "Question": "Aşağıdaki organlardan hangisinin yaralanması durumunda öksürme ile ağızdan köpüklü kan gelir?\n",
+  "A": "A) Mide ",
+  "B": "B) Dalak",
+  "C": "C) Akciğer ",
+  "D": "D) Karaciğer",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Akciğer "
+ },
+ {
+  "Question": "Kişinin çevre ile bağlantısının tamamen kesildiği, uyaranlara cevap veremediği uzun süreli ve derin bilinç kaybına ne denir?\n",
+  "A": "A) Hâlsizlik ",
+  "B": "B) Koma",
+  "C": "C) Bayılma ",
+  "D": "D) Şok",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Koma"
+ },
+ {
+  "Question": "Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi şeridin sadece ileri seyir veya sola dönüş için olduğunu bildirir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195685154476281897\/Trafik_Levhalar80.png",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?\n",
+  "A": "A) G sınıfı",
+  "B": "B) A1 ve A2 sınıfı",
+  "C": "C) C, CE ve D sınıfı",
+  "D": "D) B sınıfı (hususi araç)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) B sınıfı (hususi araç)"
+ },
+ {
+  "Question": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir?\n",
+  "A": "A) Yaya geçidi",
+  "B": "B) Bisiklet yolu",
+  "C": "C) Taralı alana girilmez",
+  "D": "D) Yavaşlama uyarı çizgileri",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195685746175131688\/Trafik_Levhalar81.png",
+  "Explaination": 1,
+  "Answer": "D) Yavaşlama uyarı çizgileri"
+ },
+ {
+  "Question": "Şekilde gösterilen marş motorunun görevi nedir?\n",
+  "A": "A) Motoru çalışma sıcaklığında tutmak",
+  "B": "B) Motora ilk hareketi vermek",
+  "C": "C) Araca ilk hareketi vermek",
+  "D": "D) Aküyü şarj etmek",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195686181615173642\/Trafik_Levhalar82.png",
+  "Explaination": 1,
+  "Answer": "B) Motora ilk hareketi vermek"
+ },
+ {
+  "Question": "Şekildeki kontrolsüz kavşakta 1 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "A) Hızlanıp kavşağa girmeli",
+  "B": "B) Geçiş hakkını kendi kullanmalı",
+  "C": "C) 2 numaralı aracın geçmesini beklemeli",
+  "D": "D) İkazda bulunup 2 numaralı aracı durdurmalı",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195686458619605123\/Trafik_Levhalar83.png",
+  "Explaination": 1,
+  "Answer": "C) 2 numaralı aracın geçmesini beklemeli"
+ },
+ {
+  "Question": "Aracın direksiyonu zor dönüyorsa sebebi aşağıdakilerden hangisidir?\n",
+  "A": "A) Lastik hava basınçları tavsiye edilen değerden fazladır.",
+  "B": "B) Lastik hava basınçları tavsiye edilen değerden azdır.",
+  "C": "C) İnce tabanlı lastik kullanılmıştır.",
+  "D": "D) Arka lastikler aşınmıştır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Lastik hava basınçları tavsiye edilen değerden azdır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi resimdeki kişinin görevlerindendir?\n",
+  "A": "A) Trafiği düzenlemek",
+  "B": "B) Araçların muayenesini yapmak",
+  "C": "C) Trafik levhalarının yerlerini belirlemek",
+  "D": "D) Sağlık Bakanlığına ait hizmetleri yürütmek",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195686938632523836\/Trafik_Levhalar84.png",
+  "Explaination": 1,
+  "Answer": "A) Trafiği düzenlemek"
+ },
+ {
+  "Question": "\"Bir ülkeyi tanımak istiyorsanız, o ülkede insanların nasıl öldüğüne bakın.\"\n\nYukarıdaki ifadeyi trafik adabı açısından ele alırsak aşağıdakilerden hangisinin önemi ortaya çıkar?",
+  "A": "A) Yaşam hakkı",
+  "B": "B) Çevre hakkı",
+  "C": "C) Kamu yararı",
+  "D": "D) Öfke yönetimi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Yaşam hakkı"
+ },
+ {
+  "Question": "Burun kanaması olan kazazedeye hangi pozisyonu vermek gerekir?\n",
+  "A": "A) Başı geriye doğru iterek yarı oturuş",
+  "B": "B) Başı hafifçe öne doğru eğerek oturuş",
+  "C": "C) Çeneyi göğse yaklaştırarak yüz üstü yatış",
+  "D": "D) Çeneyi öne ve yukarı doğru çekerek sırtüstü yatış",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Başı hafifçe öne doğru eğerek oturuş"
+ },
+ {
+  "Question": "Yay salınım süresini kısaltan parça aşağıdakilerden hangisidir?\n",
+  "A": "A) Rotil ",
+  "B": "B) Aks",
+  "C": "C) Amortisör",
+  "D": "D) Şaft",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Amortisör"
+ },
+ {
+  "Question": "Otomobillerin trafiğe çıkarılabilmesi için aşağıdakilerden hangisinin yaptırılması zorunludur?\n",
+  "A": "A) Zorunlu mali sorumluluk sigortasının",
+  "B": "B) Koltuk ferdi kaza sigortasının",
+  "C": "C) Kasko sigortasının",
+  "D": "D) Aracın bakımının",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Zorunlu mali sorumluluk sigortasının"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?\n",
+  "A": "A) Tarım araçları",
+  "B": "B) Toplu taşıma araçları",
+  "C": "C) Gümrük muhafaza araçları",
+  "D": "D) Yaralı ve acil hasta taşıyan araçlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Yaralı ve acil hasta taşıyan araçlar"
+ },
+ {
+  "Question": "Şekildeki trafik işareti neyi bildirir?\n",
+  "A": "A) Treylerin giremeyeceğini",
+  "B": "B) Kamyonun giremeyeceğini",
+  "C": "C) Kamyon için geçme yasağının sona erdiğini",
+  "D": "D) Tehlikeli madde taşıyan taşıtın giremeyeceğini",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195687817637011526\/Trafik_Levhalar85.png",
+  "Explaination": 1,
+  "Answer": "B) Kamyonun giremeyeceğini"
+ },
+ {
+  "Question": "Trafik görevlisinin hangi hareketi seri bir şekilde yapması “trafiğin hızlanması” işaretidir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195688396178329702\/Trafik_Levhalar86.png",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "Karın bölgesinde iç kanaması olduğu düşünülen bir kazazedeye aşağıdakilerden hangisinin yapılması yanlıştır?\n",
+  "A": "A) Şok pozisyonu verilmesi",
+  "B": "B) Ağzından bol sıvı verilmesi",
+  "C": "C) Üzerinin örtülerek sıcak tutulması",
+  "D": "D) Yaşamsal bulgularının incelenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ağzından bol sıvı verilmesi"
+ },
+ {
+  "Question": "Şekle göre, yaya yolu ayrılmamış kara yolunda, olağan olarak yayaların ve hayvanların kullanacağı 1 ve 4 numaralı kısımlara ne ad verilir?\n",
+  "A": "A) Taşıt yolu",
+  "B": "B) Banket",
+  "C": "C) Yaya geçidi",
+  "D": "D) Platform",
+  "Image": "https:\/\/cdn.discordapp.com\/attachments\/863336387553001492\/1195689372692004904\/Trafik_Levhalar87.png",
+  "Explaination": 1,
+  "Answer": "B) Banket"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, şoka girmiş kazazedede görülebilecek belirtilerden biri değildir?\n",
+  "A": "A)Kan basıncında yükselme",
+  "B": "B)Bilinç seviyesinde azalma",
+  "C": "C)Hızlı ve yüzeysel solunum",
+  "D": "D)Ciltte soğukluk, solukluk ve nemlilik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)Kan basıncında yükselme"
+ },
+ {
+  "Question": "Buji ile ateşlemeli motorlarda aşağıdaki yakıtlardan hangisi kullanılır?\n",
+  "A": "A) Alkol-LPG",
+  "B": "B) Gazyağı-LPG",
+  "C": "C) Benzin-LPG",
+  "D": "D) Motorin-LPG",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Benzin-LPG"
+ }
+]
